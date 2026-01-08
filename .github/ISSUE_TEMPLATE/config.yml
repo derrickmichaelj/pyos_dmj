@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community Support
+    url: https://github.com/derrickmichaelj/pyos_dmj/discussions
+    about: Please ask and answer questions here.
